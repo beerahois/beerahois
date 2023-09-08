@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Suleyman Harmandar
-
+- 📖 A Geography student
+- 🐂 A GNU fan (Who has to use Apple Ecosystem 😣)
 ---
 
 🧰Tech Stack
