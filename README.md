@@ -13,6 +13,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="NginX Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="ROR Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt"AWS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="ROR Logo" width="50" height="50"/>
 
 ---
